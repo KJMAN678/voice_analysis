@@ -6,6 +6,7 @@
 
 ## 参考サイト
 - [Python の SpeechRecognizer を用いて音声認識](https://www.kkaneko.jp/db/speech/speechrecog.html)
+- [【Python/pydub】mp3, wavの相互変換](https://algorithm.joho.info/programming/python/pydub-mp3-wav/)
 - [無料で音声認識に使えるデータセット5つ](https://qiita.com/yarimoto/items/98711f23f90ea068730b)
 
 
